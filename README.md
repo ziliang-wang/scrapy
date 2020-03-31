@@ -2,3 +2,4 @@
 ### 入口文件: main.py
 ### 输出: CSV文
 ### 主代码的截图:
+![img1](https://github.com/ziliang-wang/scrapy/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200331190512.png)
